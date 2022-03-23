@@ -1,0 +1,11 @@
+ID = 24
+HEIGHT = 4
+WIDTH = 4
+PROBLEM_NAME = "problem.ppm"
+SOLUTION_NAME = "solution.txt"
+HOST = "http://112.137.129.202:8006"
+URL_DOWNLOAD = f"{HOST}/challenge/raw-challenge/{ID}"
+URL_SUBMIT = f"{HOST}/solution/submit/{ID}"
+TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiaWF0IjoxNjQ4MDQwODczLCJleHAiOjE2NDgwNTg4NzN9.3ASRSvq5mvlCbL0ICwvPXEPJBkFoA5sYotXHY_PWcXQ"
+POSITION_FILE = "pos.txt"
+ROTATION_FILE = "rot.txt"
